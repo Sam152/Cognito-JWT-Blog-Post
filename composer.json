@@ -1,0 +1,15 @@
+{
+    "name": "sam/jwt-blog-post",
+    "autoload": {
+        "psr-4": {
+            "Sam\\JwtBlogPost\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sam",
+            "email": "54m152@gmail.com"
+        }
+    ],
+    "require": {}
+}
