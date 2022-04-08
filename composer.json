@@ -11,5 +11,9 @@
             "email": "54m152@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "web-token/jwt-checker": "^3.0",
+        "web-token/jwt-signature-algorithm-rsa": "^3.0",
+        "guzzlehttp/guzzle": "^7.4"
+    }
 }
